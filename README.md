@@ -1,4 +1,4 @@
-[![Build Status](https://img.shields.io/travis/imba-runner/event-emitter.svg?style=flat-square)](https://travis-ci.org/imba-runner/event-emitter)
+[![Build Status](https://img.shields.io/travis/imba-js/event-emitter.svg?style=flat-square)](https://travis-ci.org/imba-js/event-emitter)
 
 # @imba/event-emitter
 
